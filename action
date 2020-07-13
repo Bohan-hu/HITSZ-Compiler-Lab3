@@ -1,0 +1,33 @@
+N
+a
+N
+N
+r S',int ID
+N
+r S',ID = S
+r S,A
+r A,B
+N
+r B,ID
+r B,VAL
+N
+N
+N
+N
+N
+N
+N
+N
+N
+r S,S + A
+r S,S - A
+r A,A * B
+N
+N
+r B,( S )
+N
+N
+N
+N
+N
+N
